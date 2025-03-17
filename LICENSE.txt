@@ -1,0 +1,15 @@
+DialogBlocks END USER License Agreement
+
+IMPORTANT -- By clicking the "NEXT" button below and continuing with the installation, you are consenting to be bound by this License Agreement. If you do not agree to the terms of the License Agreement, click the "NO" button to cancel the installation process.
+
+This DialogBlocks software ("Software") is owned by Anthemion Software. Anthemion Software hereby grants to the user a non-exclusive license to use this Software solely for internal purposes. Unless permission is obtained from Anthemion Software, the user shall not commercially distribute, sub-license, resell, or otherwise transfer for any consideration, or reproduce for any such purposes, the Software or any modification or derivation thereof, either alone or in conjunction with any other products or programs. Further, the user shall not disassemble, reverse engineer, modify, decompile, or otherwise abuse the intended purpose under this License Agreement.
+
+This Software is provided to the user "AS IS." Anthemion Software assumes no risk if this Software does not function properly or operate error free and Anthemion Software makes no warranties, either expressed or implied, with respect to the Software and/or associated materials provided to the user, including but not limited to any warranty of merchantability or fitness for a particular purpose. Further, Anthemion Software shall not be liable for any claims or damages whatsoever, including property damage, personal injury, intellectual property infringement, loss of profits, or interruption of business, or for any special, consequential or incidental damages, however caused, whether arising out of breach of warranty, contract, tort (including negligence), strict liability, or otherwise.
+
+NON COMMERCIAL REPRODUCTION OF THIS SOFTWARE AND ITS MEDIA IS STRICTLY PROHIBITED.
+
+TECHNICAL SUPPORT. Software technical support is provided at the DialogBlocks web site (www.anthemion.co.uk/dialogblocks) in the form of a Frequently Asked Questions page. Email support is provided as a courtesy and at the discretion of Anthemion Software. No technical support will be provided over the telephone.
+
+This Agreement is governed by the laws of the United Kingdom. If any provision of this Agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severed from this Agreement and shall not affect the validity or enforceability of the remaining provisions of this Agreement. This Agreement is the complete statement of the agreement and supersedes any proposal or prior communications between Anthemion Software and the user relating to the subject matter of this Agreement. If you have any questions regarding this Agreement, please contact Anthemion Software on support@anthemion.co.uk
+
+Copyright (c) 2002-2025 Anthemion Software.  All rights reserved.
